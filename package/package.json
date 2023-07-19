@@ -1,0 +1,14 @@
+{
+  "name": "begin-node",
+  "version": "1.0.0",
+  "description": "0-1 Node.Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijendra Rana",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
